@@ -7,7 +7,8 @@ This PowerShell script helps you split and merge large ChatGPT conversation file
 - **Automatic Directory Creation**: Automatically creates a "split" directory to store split conversation files.
 - **Installation of `jq`**: Checks if the `jq` tool is installed on your system and prompts you to install it if it's missing. The script does not force installation and allows you to install `jq` manually if you prefer.
 - **Split Functionality**: Supports splitting large JSON files into smaller, more manageable pieces based on the content.
-  
+- **Multiverse Viewer Integration**: Once you've split your JSON into individual conversation files, you can use the **[Multiverse Viewer](https://github.com/akivacp/chatgpt-json-tree-viewer)** to navigate and explore the conversation data visually.
+
 ## Prerequisites:
 - **Windows Operating System** (or Windows Subsystem for Linux - WSL if you're using Linux)
 - **PowerShell** (pre-installed on Windows)
