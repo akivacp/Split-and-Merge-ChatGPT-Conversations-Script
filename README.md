@@ -19,7 +19,7 @@ This PowerShell script helps you split large ChatGPT conversation export files i
 ## Installation:
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/yourusername/ChatGPT-Conversations-Split-Merge.git
+    git clone https://github.com/akivacp/Split-ChatGPT-Account-Export-Chats-to-Individual-Chats-Script.git
     ```
 
 2. **Install `jq` manually**:
